@@ -20,7 +20,7 @@ contract Counter {
     }
 }
 ```
-Some comment 2
+Sqome comment 2
 
 To set up more minimal example that still uses the Stylus SDK, use `cargo stylus new --minimal <YOUR_PROJECT_NAME>` under [OffchainLabs/cargo-stylus](https://github.com/OffchainLabs/cargo-stylus).
 
