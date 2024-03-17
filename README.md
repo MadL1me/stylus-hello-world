@@ -4,6 +4,8 @@
 
 Project starter template for writing Arbitrum Stylus programs in Rust using the [stylus-sdk](https://github.com/OffchainLabs/stylus-sdk-rs). It includes a Rust implementation of a basic counter Ethereum smart contract:
 
+some test 
+
 ```js
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.13;
