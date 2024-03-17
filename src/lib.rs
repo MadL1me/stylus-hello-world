@@ -45,7 +45,7 @@ sol_storage! {
 #[external]
 impl Counter {
     /// Gets the number from storage.
-    ub fn number(&self) -> U256 {
+    pub fn number(&self) -> U256 {
         self.number.get()
     }
 
